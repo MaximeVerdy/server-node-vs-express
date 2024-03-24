@@ -43,7 +43,7 @@ http.createServer((req, res) => {
 //////////////// EXPRESS SERVER ////////////////
 ////////////////////////////////////////////////
 
-// Importing Express, a high-level framework for Node.js.
+// Importing Express, framework for Node.js.
 // Express abstracts away the low-level handling of HTTP transactions, encapsulating Node.js's native `http` module.
 const express = require('express');
 
