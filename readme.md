@@ -1,7 +1,7 @@
 This repository conducts a comparative exploration between constructing a web server using Node.js's primitives and the abstraction provided by Express.  
 _see the code comments // for specific explanations._
 
-## Node.js and Express: Core Principles
+### Node.js and Express: Core Principles
 
 At its most elemental level, a Node.js server directly leverages the `http` module to orchestrate the HTTP transaction lifecycle. This approach illustrates the direct interaction with the HTTP protocol, requiring explicit management of requests, responses, and routing. Express introduces a layer of abstraction over the `http` module. It encapsulates common web development patterns, accelerating the setup of robust and maintainable web servers.
 
