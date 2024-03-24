@@ -1,0 +1,8 @@
+{
+  "name": "server-just-node",
+  "version": "1.0.0",
+  "description": "testing what is a server node without express",
+  "main": "index.js",
+  "author": "Maxime Verdy",
+  "license": "MIT"
+}
