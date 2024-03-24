@@ -1,5 +1,5 @@
-This repository conducts a comparative exploration between constructing a web server using Node.js's primitives and the abstraction provided by Express. 
-_See comments in the code for more specific information._
+This repository conducts a comparative exploration between constructing a web server using Node.js's primitives and the abstraction provided by Express.  
+_see the code comments // for specific explanations._
 
 ## Node.js and Express: Core Principles
 
