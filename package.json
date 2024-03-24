@@ -4,5 +4,8 @@
   "description": "testing what is a server node without express",
   "main": "index.js",
   "author": "Maxime Verdy",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
 }
